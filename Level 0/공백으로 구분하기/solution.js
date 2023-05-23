@@ -1,3 +1,3 @@
-function solution(flo) {
-  return Math.floor(flo)
+function solution(my_string) {
+  return my_string.split(" ");
 }
