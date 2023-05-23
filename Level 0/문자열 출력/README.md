@@ -13,7 +13,8 @@ str에는 공백이 없으며, 첫째 줄에 한 줄로만 주어집니다.
 
 입력 #1
 
-|HelloWorld!|
+HelloWorld!
+<br><br>
 출력 #1
 
-|HelloWorld!|
+HelloWorld!
